@@ -1,0 +1,53 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color:#F7DC6F;
+}
+.inicio{
+    
+    background-color: #A9CCE3;
+    color: white;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.quem-somostx{
+    padding-top: 30px;
+}
+.quem-somos{
+    background-color: #BFC9CA;
+}
+.logos{
+    width: 60px;
+    height: 60px;
+}
+.cadastro{
+    background-color:white;
+}
+.serviços{
+    background-color: #82E0AA;
+}
+.fale{
+    background-color: #B2BABB;
+}
+.rodape{
+ margin-top: 10px;   
+}
+.barra{
+    width: 500px;
+    margin-left: 20px;
+}
+.barra2{
+    width: 300px;
+    margin-left: 20px;
+}
+.barra3{
+    width: 600px;
+    margin-left: 20px;
+}
+.espaço{
+    margin-left: 80px;
+}
